@@ -1,0 +1,65 @@
+* {
+    background-color: green;
+    font-size: 40px;
+}
+
+.winner{
+    background-color: blue;
+    color: yellow !important;
+}
+
+.looser{
+    background-color: yellow;
+    color: blue !important;
+}
+
+.c2{
+    background-color: white;
+    color: black;
+    font-size: 30;
+}
+
+
+.c3{
+    background-color: rgb(218, 205, 205);
+    color: rgb(12, 12, 29);
+    font-size: 25 !important;
+}
+
+
+
+#aa2{
+    background-color: white;
+}
+
+tr{
+    color: rgb(51, 10, 23);
+}
+
+h1{
+    background-color: blue;
+    color: red;
+}
+
+h2 {
+background-color: white;
+color: red;
+}
+
+p{
+    font-size: 10;
+}
+
+li{
+    background-color:white;
+    color: red;
+}
+
+textarea{
+    background-color: greenyellow;
+    
+}
+
+input[type="submit"]{
+    background-color: blue;
+}
